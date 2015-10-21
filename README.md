@@ -1,4 +1,4 @@
-# c_web_server
+# Simple Web Server
 Simple Web Server written in C for Systems Programming course
 
 # Description
